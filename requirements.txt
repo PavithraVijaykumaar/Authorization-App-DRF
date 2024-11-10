@@ -1,0 +1,8 @@
+python-dotenv
+django
+djangorestframework
+djangorestframework-simplejwt
+django-redis
+mysqlclient
+cryptography
+django-cors-headers
